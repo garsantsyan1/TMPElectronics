@@ -1,0 +1,440 @@
+Uri: https://bayguzin.ru/demo2016/electronics/
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\index.htm
+Content Type: text/html
+
+Uri: https://bayguzin.ru/demo2016/electronics/about.html
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\about.html
+Content Type: text/html
+
+Uri: https://bayguzin.ru/demo2016/electronics/account.html
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\account.html
+Content Type: text/html
+
+Uri: https://bayguzin.ru/demo2016/electronics/cart.html
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\cart.html
+Content Type: text/html
+
+Uri: https://bayguzin.ru/demo2016/electronics/checkout.html
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\checkout.html
+Content Type: text/html
+
+Uri: https://bayguzin.ru/demo2016/electronics/contact.html
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\contact.html
+Content Type: text/html
+
+Uri: https://bayguzin.ru/demo2016/electronics/css/animate.css
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\css\animate.css
+Content Type: text/css
+
+Uri: https://bayguzin.ru/demo2016/electronics/css/bootstrap.min.css
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://bayguzin.ru/demo2016/electronics/css/font-awesome.min.css
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://bayguzin.ru/demo2016/electronics/css/jquery-ui.css
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\css\jquery-ui.css
+Content Type: text/css
+
+Uri: https://bayguzin.ru/demo2016/electronics/css/main.css
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\css\main.css
+Content Type: text/css
+
+Uri: https://bayguzin.ru/demo2016/electronics/css/meanmenu.min.css
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\css\meanmenu.min.css
+Content Type: text/css
+
+Uri: https://bayguzin.ru/demo2016/electronics/css/nivo-slider.css
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\css\nivo-slider.css
+Content Type: text/css
+
+Uri: https://bayguzin.ru/demo2016/electronics/css/owl.carousel.css
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\css\owl.carousel.css
+Content Type: text/css
+
+Uri: https://bayguzin.ru/demo2016/electronics/css/owl.theme.css
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\css\owl.theme.css
+Content Type: text/css
+
+Uri: https://bayguzin.ru/demo2016/electronics/css/owl.transitions.css
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\css\owl.transitions.css
+Content Type: text/css
+
+Uri: https://bayguzin.ru/demo2016/electronics/css/responsive.css
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\css\responsive.css
+Content Type: text/css
+
+Uri: https://bayguzin.ru/demo2016/electronics/css/style.css
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\css\style.css
+Content Type: text/css
+
+Uri: https://bayguzin.ru/demo2016/electronics/fonts/fontawesome-webfont.woff2?v=4.5.0
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/about/1.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\about\1.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/about/2.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\about\2.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/about/about.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\about\about.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/banner/1.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\banner\1.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/banner/12.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\banner\12.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/banner/2.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\banner\2.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/banner/3.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\banner\3.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/banner/4.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\banner\4.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/banner/5.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\banner\5.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/banner/6.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\banner\6.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/brand/1.png
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\brand\1.png
+Content Type: image/png
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/brand/2.png
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\brand\2.png
+Content Type: image/png
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/brand/3.png
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\brand\3.png
+Content Type: image/png
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/brand/4.png
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\brand\4.png
+Content Type: image/png
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/brand/5.png
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\brand\5.png
+Content Type: image/png
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/brand/6.png
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\brand\6.png
+Content Type: image/png
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/flags/fr.png
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\flags\fr.png
+Content Type: image/png
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/flags/gb.png
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\flags\gb.png
+Content Type: image/png
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/hot-deals/1.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\hot-deals\1.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/hot-deals/2.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\hot-deals\2.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/hot-deals/3.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\hot-deals\3.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/logo.png
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\logo.png
+Content Type: image/png
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/megamenu/vmega_blog1.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\megamenu\vmega_blog1.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/payment.png
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\payment.png
+Content Type: image/png
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/posts/1.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\posts\1.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/posts/2.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\posts\2.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/posts/3.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\posts\3.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/posts/4.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\posts\4.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/product/cart/1.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\product\cart\1.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/product/cart/2.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\product\cart\2.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/product/cart/3.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\product\cart\3.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/product/cart/4.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\product\cart\4.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/product/mediam/1.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\product\mediam\1.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/product/mediam/10.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\product\mediam\10.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/product/mediam/10bg.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\product\mediam\10bg.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/product/mediam/11.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\product\mediam\11.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/product/mediam/12.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\product\mediam\12.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/product/mediam/12bg.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\product\mediam\12bg.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/product/mediam/13.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\product\mediam\13.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/product/mediam/1bg.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\product\mediam\1bg.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/product/mediam/2.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\product\mediam\2.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/product/mediam/2bg.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\product\mediam\2bg.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/product/mediam/3.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\product\mediam\3.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/product/mediam/3bg.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\product\mediam\3bg.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/product/mediam/4.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\product\mediam\4.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/product/mediam/4bg.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\product\mediam\4bg.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/product/mediam/5.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\product\mediam\5.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/product/mediam/6.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\product\mediam\6.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/product/quickview-photo.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\product\quickview-photo.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/product/small/1.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\product\small\1.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/product/small/2.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\product\small\2.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/product/small/3.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\product\small\3.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/product/small/4.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\product\small\4.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/product/small/5.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\product\small\5.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/product/small/6.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\product\small\6.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/product/small/7.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\product\small\7.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/product/small/8.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\product\small\8.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/product/total-cart.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\product\total-cart.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/product/total-cart2.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\product\total-cart2.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/sliders/slider-1/bg1.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\sliders\slider-1\bg1.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/sliders/slider-1/bg2.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\sliders\slider-1\bg2.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/sliders/slider-1/bg3.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\sliders\slider-1\bg3.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/toch/1.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\toch\1.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/toch/2.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\toch\2.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/toch/3.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\toch\3.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/img/toch/4.jpg
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\img\toch\4.jpg
+Content Type: image/jpeg
+
+Uri: https://bayguzin.ru/demo2016/electronics/index.html
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\index.html
+Content Type: text/html
+
+Uri: https://bayguzin.ru/demo2016/electronics/js/bootstrap.min.js
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://bayguzin.ru/demo2016/electronics/js/countdon.min.js
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\js\countdon.min.js
+Content Type: application/javascript
+
+Uri: https://bayguzin.ru/demo2016/electronics/js/imagezoom.js
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\js\imagezoom.js
+Content Type: application/javascript
+
+Uri: https://bayguzin.ru/demo2016/electronics/js/jquery-1.11.3.min.js
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\js\jquery-1.11.3.min.js
+Content Type: application/javascript
+
+Uri: https://bayguzin.ru/demo2016/electronics/js/jquery-price-slider.js
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\js\jquery-price-slider.js
+Content Type: application/javascript
+
+Uri: https://bayguzin.ru/demo2016/electronics/js/jquery.meanmenu.js
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\js\jquery.meanmenu.js
+Content Type: application/javascript
+
+Uri: https://bayguzin.ru/demo2016/electronics/js/jquery.nivo.slider.js
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\js\jquery.nivo.slider.js
+Content Type: application/javascript
+
+Uri: https://bayguzin.ru/demo2016/electronics/js/jquery.scrollUp.min.js
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\js\jquery.scrollUp.min.js
+Content Type: application/javascript
+
+Uri: https://bayguzin.ru/demo2016/electronics/js/main.js
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\js\main.js
+Content Type: application/javascript
+
+Uri: https://bayguzin.ru/demo2016/electronics/js/owl.carousel.min.js
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://bayguzin.ru/demo2016/electronics/js/plugins.js
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\js\plugins.js
+Content Type: application/javascript
+
+Uri: https://bayguzin.ru/demo2016/electronics/js/wow.min.js
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://bayguzin.ru/demo2016/electronics/my-account.html
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\my-account.html
+Content Type: text/html
+
+Uri: https://bayguzin.ru/demo2016/electronics/product-details.html
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\product-details.html
+Content Type: text/html
+
+Uri: https://bayguzin.ru/demo2016/electronics/shop-list.html
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\shop-list.html
+Content Type: text/html
+
+Uri: https://bayguzin.ru/demo2016/electronics/shop.html
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\shop.html
+Content Type: text/html
+
+Uri: https://bayguzin.ru/demo2016/electronics/wishlist.html
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\demo2016\electronics\wishlist.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Raleway:400,600
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:400,700
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/raleway/v26/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\s\raleway\v26\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v26/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\s\raleway\v26\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\s\roboto\v29\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\s\roboto\v29\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://maps.googleapis.com/maps/api/js
+File Name: C:\Users\Джоник\Desktop\bayguzin.ru\maps\api\js
+Content Type: text/javascript
+
